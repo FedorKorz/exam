@@ -1,0 +1,6 @@
+﻿{
+  "//first_comment":  "Instead of * marks in URL field user your onw password that should specified in dockerfile",
+  "//second_comment":  "Instead of * marks in API field user your onw password that should specified in dockerfile",
+  "URL": "http://*****:*******@localhost:8080/web",
+  "API": "http://*****:*******@localhost:8080"
+}
